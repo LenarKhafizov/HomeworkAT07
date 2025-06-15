@@ -40,6 +40,11 @@ out/
 *.rar
 
 ### Exclusions ###
-!gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+/gradle/
+
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
